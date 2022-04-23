@@ -1,4 +1,4 @@
-baseURL = 'https://annagodwin.github.io/annagodwinwebsite/'
+baseURL = 'https://www.annagodwin.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "mini"
